@@ -1,4 +1,4 @@
-# AverageOf3Numbers
+# Average of 3 Numbers In Python3
 
 #Simply input 3 numbers.
 
